@@ -18,3 +18,4 @@ db_backups
 PROD_ENV
 DEVEL_ENV
 *.log
+raw_data/
