@@ -4,7 +4,9 @@ __pycache__
 .idea
 .env
 .env.*.secrets
+.env.secrets
 .env.*.secret
+.env.secret
 .secret
 .secrets
 stuff_not_to_commit
