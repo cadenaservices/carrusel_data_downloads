@@ -1,0 +1,3766 @@
+{
+  "4": {
+    "name": "Euro Championship",
+    "country": "AA"
+  },
+  "21": {
+    "name": "Confederations Cup",
+    "country": "AA"
+  },
+  "61": {
+    "name": "Ligue 1",
+    "country": "FR"
+  },
+  "144": {
+    "name": "Jupiler Pro League",
+    "country": "BE"
+  },
+  "71": {
+    "name": "Serie A",
+    "country": "BR"
+  },
+  "39": {
+    "name": "Premier League",
+    "country": "GB"
+  },
+  "78": {
+    "name": "Bundesliga",
+    "country": "DE"
+  },
+  "135": {
+    "name": "Serie A",
+    "country": "IT"
+  },
+  "88": {
+    "name": "Eredivisie",
+    "country": "NL"
+  },
+  "94": {
+    "name": "Primeira Liga",
+    "country": "PT"
+  },
+  "140": {
+    "name": "La Liga",
+    "country": "ES"
+  },
+  "179": {
+    "name": "Premiership",
+    "country": "GB"
+  },
+  "180": {
+    "name": "Championship",
+    "country": "GB"
+  },
+  "1": {
+    "name": "World Cup",
+    "country": "AA"
+  },
+  "803": {
+    "name": "Asian Games",
+    "country": "AA"
+  },
+  "804": {
+    "name": "Caribbean Cup",
+    "country": "AA"
+  },
+  "62": {
+    "name": "Ligue 2",
+    "country": "FR"
+  },
+  "2": {
+    "name": "UEFA Champions League",
+    "country": "AA"
+  },
+  "311": {
+    "name": "1st Division",
+    "country": "AL"
+  },
+  "310": {
+    "name": "Superliga",
+    "country": "AL"
+  },
+  "186": {
+    "name": "Ligue 1",
+    "country": "DZ"
+  },
+  "187": {
+    "name": "Ligue 2",
+    "country": "DZ"
+  },
+  "586": {
+    "name": "West Bank Premier League",
+    "country": "PS"
+  },
+  "588": {
+    "name": "National League",
+    "country": "MM"
+  },
+  "591": {
+    "name": "Pro League",
+    "country": "TT"
+  },
+  "335": {
+    "name": "Cup",
+    "country": "UA"
+  },
+  "336": {
+    "name": "Druha Liga - Group A",
+    "country": "UA"
+  },
+  "334": {
+    "name": "Persha Liga",
+    "country": "UA"
+  },
+  "333": {
+    "name": "Premier League",
+    "country": "UA"
+  },
+  "301": {
+    "name": "Pro League",
+    "country": "AE"
+  },
+  "303": {
+    "name": "Division 1",
+    "country": "AE"
+  },
+  "302": {
+    "name": "League Cup",
+    "country": "AE"
+  },
+  "269": {
+    "name": "Segunda Divisi\u00f3n",
+    "country": "UY"
+  },
+  "202": {
+    "name": "Ligue 1",
+    "country": "TN"
+  },
+  "203": {
+    "name": "S\u00fcper Lig",
+    "country": "TR"
+  },
+  "204": {
+    "name": "1. Lig",
+    "country": "TR"
+  },
+  "205": {
+    "name": "2. Lig",
+    "country": "TR"
+  },
+  "206": {
+    "name": "Cup",
+    "country": "TR"
+  },
+  "552": {
+    "name": "3. Lig - Group 1",
+    "country": "TR"
+  },
+  "553": {
+    "name": "3. Lig - Group 2",
+    "country": "TR"
+  },
+  "554": {
+    "name": "3. Lig - Group 3",
+    "country": "TR"
+  },
+  "63": {
+    "name": "National 1",
+    "country": "FR"
+  },
+  "66": {
+    "name": "Coupe de France",
+    "country": "FR"
+  },
+  "65": {
+    "name": "Coupe de la Ligue",
+    "country": "FR"
+  },
+  "67": {
+    "name": "National 2 - Group A",
+    "country": "FR"
+  },
+  "68": {
+    "name": "National 2 - Group B",
+    "country": "FR"
+  },
+  "69": {
+    "name": "National 2 - Group C",
+    "country": "FR"
+  },
+  "70": {
+    "name": "National 2 - Group D",
+    "country": "FR"
+  },
+  "233": {
+    "name": "Premier League",
+    "country": "EG"
+  },
+  "370": {
+    "name": "Primera Division",
+    "country": "SV"
+  },
+  "328": {
+    "name": "Esiliiga A",
+    "country": "EE"
+  },
+  "329": {
+    "name": "Meistriliiga",
+    "country": "EE"
+  },
+  "326": {
+    "name": "Erovnuli Liga 2",
+    "country": "GE"
+  },
+  "570": {
+    "name": "Premier League",
+    "country": "GH"
+  },
+  "377": {
+    "name": "Division d'Honneur",
+    "country": "GP"
+  },
+  "339": {
+    "name": "Liga Nacional",
+    "country": "GT"
+  },
+  "338": {
+    "name": "Primera Division",
+    "country": "GT"
+  },
+  "199": {
+    "name": "Cup",
+    "country": "GR"
+  },
+  "198": {
+    "name": "Football League",
+    "country": "GR"
+  },
+  "197": {
+    "name": "Super League 1",
+    "country": "GR"
+  },
+  "79": {
+    "name": "2. Bundesliga",
+    "country": "DE"
+  },
+  "80": {
+    "name": "3. Liga",
+    "country": "DE"
+  },
+  "529": {
+    "name": "Super Cup",
+    "country": "DE"
+  },
+  "81": {
+    "name": "DFB Pokal",
+    "country": "DE"
+  },
+  "7": {
+    "name": "Asian Cup",
+    "country": "AA"
+  },
+  "8": {
+    "name": "World Cup - Women",
+    "country": "AA"
+  },
+  "512": {
+    "name": "2nd Division - Group A",
+    "country": "AL"
+  },
+  "513": {
+    "name": "2nd Division - Group B",
+    "country": "AL"
+  },
+  "312": {
+    "name": "1a Divisi\u00f3",
+    "country": "AD"
+  },
+  "313": {
+    "name": "2a Divisi\u00f3",
+    "country": "AD"
+  },
+  "131": {
+    "name": "Primera B Metropolitana",
+    "country": "AR"
+  },
+  "129": {
+    "name": "Primera Nacional",
+    "country": "AR"
+  },
+  "132": {
+    "name": "Primera C",
+    "country": "AR"
+  },
+  "133": {
+    "name": "Primera D",
+    "country": "AR"
+  },
+  "134": {
+    "name": "Torneo Federal A",
+    "country": "AR"
+  },
+  "188": {
+    "name": "A-League",
+    "country": "AU"
+  },
+  "191": {
+    "name": "Brisbane Premier League",
+    "country": "AU"
+  },
+  "193": {
+    "name": "Northern Territory Premier League",
+    "country": "AU"
+  },
+  "220": {
+    "name": "Cup",
+    "country": "AT"
+  },
+  "219": {
+    "name": "2. Liga",
+    "country": "AT"
+  },
+  "218": {
+    "name": "Bundesliga",
+    "country": "AT"
+  },
+  "418": {
+    "name": "Birinci Dasta",
+    "country": "AZ"
+  },
+  "419": {
+    "name": "Premyer Liqa",
+    "country": "AZ"
+  },
+  "222": {
+    "name": "Regionalliga - Mitte",
+    "country": "AT"
+  },
+  "221": {
+    "name": "Regionalliga - Ost",
+    "country": "AT"
+  },
+  "223": {
+    "name": "Regionalliga - West",
+    "country": "AT"
+  },
+  "110": {
+    "name": "Premier League",
+    "country": "GB"
+  },
+  "112": {
+    "name": "Welsh Cup",
+    "country": "GB"
+  },
+  "299": {
+    "name": "Primera Divisi\u00f3n",
+    "country": "VE"
+  },
+  "300": {
+    "name": "Segunda Divisi\u00f3n",
+    "country": "VE"
+  },
+  "406": {
+    "name": "Professional League",
+    "country": "OM"
+  },
+  "322": {
+    "name": "Premier League",
+    "country": "JM"
+  },
+  "387": {
+    "name": "League",
+    "country": "JO"
+  },
+  "388": {
+    "name": "1. Division",
+    "country": "KZ"
+  },
+  "330": {
+    "name": "Premier League",
+    "country": "KW"
+  },
+  "119": {
+    "name": "Superliga",
+    "country": "DK"
+  },
+  "120": {
+    "name": "1. Division",
+    "country": "DK"
+  },
+  "124": {
+    "name": "Denmark Series - Group 1",
+    "country": "DK"
+  },
+  "125": {
+    "name": "Denmark Series - Group 2",
+    "country": "DK"
+  },
+  "126": {
+    "name": "Denmark Series - Group 3",
+    "country": "DK"
+  },
+  "234": {
+    "name": "Liga Nacional",
+    "country": "HN"
+  },
+  "381": {
+    "name": "HKFA 1st Division",
+    "country": "HK"
+  },
+  "380": {
+    "name": "Premier League",
+    "country": "HK"
+  },
+  "273": {
+    "name": "Magyar Kupa",
+    "country": "HU"
+  },
+  "271": {
+    "name": "NB I",
+    "country": "HU"
+  },
+  "272": {
+    "name": "NB II",
+    "country": "HU"
+  },
+  "390": {
+    "name": "Premier League",
+    "country": "LB"
+  },
+  "261": {
+    "name": "National Division",
+    "country": "LU"
+  },
+  "306": {
+    "name": "Second Division",
+    "country": "QA"
+  },
+  "305": {
+    "name": "Stars League",
+    "country": "QA"
+  },
+  "40": {
+    "name": "Championship",
+    "country": "GB"
+  },
+  "46": {
+    "name": "EFL Trophy",
+    "country": "GB"
+  },
+  "45": {
+    "name": "FA Cup",
+    "country": "GB"
+  },
+  "47": {
+    "name": "FA Trophy",
+    "country": "GB"
+  },
+  "48": {
+    "name": "League Cup",
+    "country": "GB"
+  },
+  "43": {
+    "name": "National League",
+    "country": "GB"
+  },
+  "41": {
+    "name": "League One",
+    "country": "GB"
+  },
+  "42": {
+    "name": "League Two",
+    "country": "GB"
+  },
+  "568": {
+    "name": "Eerste Divisie",
+    "country": "SR"
+  },
+  "571": {
+    "name": "Vysshaya Liga",
+    "country": "TJ"
+  },
+  "15": {
+    "name": "FIFA Club World Cup",
+    "country": "AA"
+  },
+  "422": {
+    "name": "Premier League",
+    "country": "BB"
+  },
+  "480": {
+    "name": "Olympics Men",
+    "country": "AA"
+  },
+  "535": {
+    "name": "CECAFA Senior Challenge Cup",
+    "country": "AA"
+  },
+  "76": {
+    "name": "Serie D",
+    "country": "BR"
+  },
+  "585": {
+    "name": "Premier League",
+    "country": "UG"
+  },
+  "598": {
+    "name": "Premi\u00e8re Division",
+    "country": "ML"
+  },
+  "253": {
+    "name": "Major League Soccer",
+    "country": "US"
+  },
+  "257": {
+    "name": "US Open Cup",
+    "country": "US"
+  },
+  "268": {
+    "name": "Primera Divisi\u00f3n - Apertura",
+    "country": "UY"
+  },
+  "270": {
+    "name": "Primera Divisi\u00f3n - Clausura",
+    "country": "UY"
+  },
+  "369": {
+    "name": "Super League",
+    "country": "UZ"
+  },
+  "296": {
+    "name": "Thai League 1",
+    "country": "TH"
+  },
+  "297": {
+    "name": "Thai League 2",
+    "country": "TH"
+  },
+  "551": {
+    "name": "Super Cup",
+    "country": "TR"
+  },
+  "366": {
+    "name": "1. Deild",
+    "country": "FO"
+  },
+  "367": {
+    "name": "Meistaradeildin",
+    "country": "FO"
+  },
+  "245": {
+    "name": "Ykk\u00f6nen",
+    "country": "FI"
+  },
+  "244": {
+    "name": "Veikkausliiga",
+    "country": "FI"
+  },
+  "246": {
+    "name": "Suomen Cup",
+    "country": "FI"
+  },
+  "247": {
+    "name": "Kakkonen - Lohko A",
+    "country": "FI"
+  },
+  "248": {
+    "name": "Kakkonen - Lohko B",
+    "country": "FI"
+  },
+  "249": {
+    "name": "Kakkonen - Lohko C",
+    "country": "FI"
+  },
+  "526": {
+    "name": "Troph\u00e9e des Champions",
+    "country": "FR"
+  },
+  "242": {
+    "name": "Liga Pro",
+    "country": "EC"
+  },
+  "243": {
+    "name": "Liga Pro Serie B",
+    "country": "EC"
+  },
+  "539": {
+    "name": "Super Cup",
+    "country": "EG"
+  },
+  "397": {
+    "name": "Girabola",
+    "country": "AO"
+  },
+  "343": {
+    "name": "First League",
+    "country": "AM"
+  },
+  "342": {
+    "name": "Premier League",
+    "country": "AM"
+  },
+  "481": {
+    "name": "Northern NSW NPL",
+    "country": "AU"
+  },
+  "116": {
+    "name": "Premier League",
+    "country": "BY"
+  },
+  "117": {
+    "name": "1. Division",
+    "country": "BY"
+  },
+  "118": {
+    "name": "2. Division",
+    "country": "BY"
+  },
+  "400": {
+    "name": "Super League",
+    "country": "ZM"
+  },
+  "340": {
+    "name": "V.League 1",
+    "country": "VN"
+  },
+  "102": {
+    "name": "Emperor Cup",
+    "country": "JP"
+  },
+  "101": {
+    "name": "J-League Cup",
+    "country": "JP"
+  },
+  "98": {
+    "name": "J1 League",
+    "country": "JP"
+  },
+  "99": {
+    "name": "J2 League",
+    "country": "JP"
+  },
+  "100": {
+    "name": "J3 League",
+    "country": "JP"
+  },
+  "389": {
+    "name": "Premier League",
+    "country": "KZ"
+  },
+  "276": {
+    "name": "FKF Premier League",
+    "country": "KE"
+  },
+  "121": {
+    "name": "DBU Pokalen",
+    "country": "DK"
+  },
+  "379": {
+    "name": "Ligue Ha\u00eftienne",
+    "country": "HT"
+  },
+  "364": {
+    "name": "1. Liga",
+    "country": "LV"
+  },
+  "365": {
+    "name": "Virsliga",
+    "country": "LV"
+  },
+  "361": {
+    "name": "1 Lyga",
+    "country": "LT"
+  },
+  "362": {
+    "name": "A Lyga",
+    "country": "LT"
+  },
+  "528": {
+    "name": "Community Shield",
+    "country": "GB"
+  },
+  "72": {
+    "name": "Serie B",
+    "country": "BR"
+  },
+  "75": {
+    "name": "Serie C",
+    "country": "BR"
+  },
+  "505": {
+    "name": "League Cup",
+    "country": "SG"
+  },
+  "28": {
+    "name": "SAFF Championship",
+    "country": "AA"
+  },
+  "421": {
+    "name": "Division di Honor",
+    "country": "AW"
+  },
+  "420": {
+    "name": "Cup",
+    "country": "AZ"
+  },
+  "298": {
+    "name": "FA Cup",
+    "country": "TH"
+  },
+  "376": {
+    "name": "National Football League",
+    "country": "FJ"
+  },
+  "64": {
+    "name": "Feminine Division 1",
+    "country": "FR"
+  },
+  "3": {
+    "name": "UEFA Europa League",
+    "country": "AA"
+  },
+  "327": {
+    "name": "Erovnuli Liga",
+    "country": "GE"
+  },
+  "378": {
+    "name": "Ligue 1",
+    "country": "GN"
+  },
+  "520": {
+    "name": "Acreano",
+    "country": "BR"
+  },
+  "547": {
+    "name": "Super Cup",
+    "country": "IT"
+  },
+  "807": {
+    "name": "AFC Challenge Cup",
+    "country": "AA"
+  },
+  "19": {
+    "name": "African Nations Championship",
+    "country": "AA"
+  },
+  "24": {
+    "name": "AFF Championship",
+    "country": "AA"
+  },
+  "37": {
+    "name": "World Cup - Qualification Intercontinental Play-offs",
+    "country": "AA"
+  },
+  "128": {
+    "name": "Liga Profesional Argentina",
+    "country": "AR"
+  },
+  "183": {
+    "name": "League One",
+    "country": "GB"
+  },
+  "184": {
+    "name": "League Two",
+    "country": "GB"
+  },
+  "22": {
+    "name": "CONCACAF Gold Cup",
+    "country": "AA"
+  },
+  "23": {
+    "name": "EAFF E-1 Football Championship",
+    "country": "AA"
+  },
+  "27": {
+    "name": "OFC Champions League",
+    "country": "AA"
+  },
+  "519": {
+    "name": "Super Cup",
+    "country": "BE"
+  },
+  "527": {
+    "name": "Super Cup",
+    "country": "CL"
+  },
+  "6": {
+    "name": "Africa Cup of Nations",
+    "country": "AA"
+  },
+  "9": {
+    "name": "Copa America",
+    "country": "AA"
+  },
+  "925": {
+    "name": "Super Cup",
+    "country": "CZ"
+  },
+  "255": {
+    "name": "USL Championship",
+    "country": "US"
+  },
+  "363": {
+    "name": "Premier League",
+    "country": "ET"
+  },
+  "122": {
+    "name": "2nd Division - Group 1",
+    "country": "DK"
+  },
+  "123": {
+    "name": "2nd Division - Group 2",
+    "country": "DK"
+  },
+  "567": {
+    "name": "Ligi kuu Bara",
+    "country": "TZ"
+  },
+  "555": {
+    "name": "Supercupa",
+    "country": "RO"
+  },
+  "556": {
+    "name": "Super Cup",
+    "country": "ES"
+  },
+  "497": {
+    "name": "Japan Football League",
+    "country": "JP"
+  },
+  "127": {
+    "name": "Denmark Series - Group 4",
+    "country": "DK"
+  },
+  "563": {
+    "name": "Ettan - Norra",
+    "country": "SE"
+  },
+  "564": {
+    "name": "Ettan - S\u00f6dra",
+    "country": "SE"
+  },
+  "569": {
+    "name": "Premier League",
+    "country": "KG"
+  },
+  "317": {
+    "name": "1st League - RS",
+    "country": "BA"
+  },
+  "316": {
+    "name": "1st League - FBiH",
+    "country": "BA"
+  },
+  "295": {
+    "name": "K3 League",
+    "country": "KR"
+  },
+  "495": {
+    "name": "Hazfi Cup",
+    "country": "IR"
+  },
+  "496": {
+    "name": "Liga Alef",
+    "country": "IL"
+  },
+  "506": {
+    "name": "2. liga",
+    "country": "SK"
+  },
+  "514": {
+    "name": "Coupe Nationale",
+    "country": "DZ"
+  },
+  "521": {
+    "name": "Amapaense",
+    "country": "BR"
+  },
+  "522": {
+    "name": "Amazonense",
+    "country": "BR"
+  },
+  "524": {
+    "name": "Olympics Women",
+    "country": "AA"
+  },
+  "531": {
+    "name": "UEFA Super Cup",
+    "country": "AA"
+  },
+  "543": {
+    "name": "Super Cup",
+    "country": "NL"
+  },
+  "550": {
+    "name": "Super Cup",
+    "country": "PT"
+  },
+  "368": {
+    "name": "Premier League",
+    "country": "SG"
+  },
+  "314": {
+    "name": "Cup",
+    "country": "BA"
+  },
+  "315": {
+    "name": "Premijer Liga",
+    "country": "BA"
+  },
+  "371": {
+    "name": "First League",
+    "country": "MK"
+  },
+  "382": {
+    "name": "Liga Leumit",
+    "country": "IL"
+  },
+  "383": {
+    "name": "Ligat Ha'al",
+    "country": "IL"
+  },
+  "386": {
+    "name": "Ligue 1",
+    "country": "CI"
+  },
+  "392": {
+    "name": "Challenge League",
+    "country": "MT"
+  },
+  "393": {
+    "name": "Premier League",
+    "country": "MT"
+  },
+  "394": {
+    "name": "Super Liga",
+    "country": "MD"
+  },
+  "396": {
+    "name": "Primera Division",
+    "country": "NI"
+  },
+  "96": {
+    "name": "Ta\u00e7a de Portugal",
+    "country": "PT"
+  },
+  "399": {
+    "name": "NPFL",
+    "country": "NG"
+  },
+  "401": {
+    "name": "Premier Soccer League",
+    "country": "ZW"
+  },
+  "402": {
+    "name": "Sudani Premier League",
+    "country": "SD"
+  },
+  "403": {
+    "name": "Ligue 1",
+    "country": "SN"
+  },
+  "404": {
+    "name": "Campionato",
+    "country": "SM"
+  },
+  "411": {
+    "name": "Elite One",
+    "country": "CM"
+  },
+  "410": {
+    "name": "C-League",
+    "country": "KH"
+  },
+  "417": {
+    "name": "Premier League",
+    "country": "BH"
+  },
+  "415": {
+    "name": "Championnat National",
+    "country": "BJ"
+  },
+  "414": {
+    "name": "Premier League",
+    "country": "BM"
+  },
+  "413": {
+    "name": "Super League",
+    "country": "BT"
+  },
+  "412": {
+    "name": "Premier League",
+    "country": "BW"
+  },
+  "398": {
+    "name": "Premier League",
+    "country": "BD"
+  },
+  "16": {
+    "name": "CONCACAF Champions League",
+    "country": "AA"
+  },
+  "17": {
+    "name": "AFC Champions League",
+    "country": "AA"
+  },
+  "25": {
+    "name": "Gulf Cup of Nations",
+    "country": "AA"
+  },
+  "26": {
+    "name": "International Champions Cup",
+    "country": "AA"
+  },
+  "141": {
+    "name": "Segunda Divisi\u00f3n",
+    "country": "ES"
+  },
+  "136": {
+    "name": "Serie B",
+    "country": "IT"
+  },
+  "103": {
+    "name": "Eliteserien",
+    "country": "NO"
+  },
+  "89": {
+    "name": "Eerste Divisie",
+    "country": "NL"
+  },
+  "95": {
+    "name": "Segunda Liga",
+    "country": "PT"
+  },
+  "113": {
+    "name": "Allsvenskan",
+    "country": "SE"
+  },
+  "162": {
+    "name": "Primera Divisi\u00f3n",
+    "country": "CR"
+  },
+  "164": {
+    "name": "\u00darvalsdeild",
+    "country": "IS"
+  },
+  "169": {
+    "name": "Super League",
+    "country": "CN"
+  },
+  "137": {
+    "name": "Coppa Italia",
+    "country": "IT"
+  },
+  "200": {
+    "name": "Botola Pro",
+    "country": "MA"
+  },
+  "207": {
+    "name": "Super League",
+    "country": "CH"
+  },
+  "210": {
+    "name": "HNL",
+    "country": "HR"
+  },
+  "235": {
+    "name": "Premier League",
+    "country": "RU"
+  },
+  "239": {
+    "name": "Primera A",
+    "country": "CO"
+  },
+  "250": {
+    "name": "Division Profesional - Apertura",
+    "country": "PY"
+  },
+  "73": {
+    "name": "Copa Do Brasil",
+    "country": "BR"
+  },
+  "90": {
+    "name": "KNVB Beker",
+    "country": "NL"
+  },
+  "145": {
+    "name": "Challenger Pro League",
+    "country": "BE"
+  },
+  "173": {
+    "name": "Second League",
+    "country": "BG"
+  },
+  "170": {
+    "name": "League One",
+    "country": "CN"
+  },
+  "189": {
+    "name": "Capital Territory NPL",
+    "country": "AU"
+  },
+  "240": {
+    "name": "Primera B",
+    "country": "CO"
+  },
+  "211": {
+    "name": "First NL",
+    "country": "HR"
+  },
+  "138": {
+    "name": "Serie C",
+    "country": "IT"
+  },
+  "146": {
+    "name": "Super League Women",
+    "country": "BE"
+  },
+  "74": {
+    "name": "Brasileiro Women",
+    "country": "BR"
+  },
+  "44": {
+    "name": "FA WSL",
+    "country": "GB"
+  },
+  "82": {
+    "name": "Frauen Bundesliga",
+    "country": "DE"
+  },
+  "139": {
+    "name": "Serie A Women",
+    "country": "IT"
+  },
+  "91": {
+    "name": "Eredivisie Women",
+    "country": "NL"
+  },
+  "142": {
+    "name": "Primera Divisi\u00f3n Femenina",
+    "country": "ES"
+  },
+  "130": {
+    "name": "Copa Argentina",
+    "country": "AR"
+  },
+  "190": {
+    "name": "W-League",
+    "country": "AU"
+  },
+  "236": {
+    "name": "First League",
+    "country": "RU"
+  },
+  "165": {
+    "name": "1. Deild",
+    "country": "IS"
+  },
+  "251": {
+    "name": "Division Intermedia",
+    "country": "PY"
+  },
+  "104": {
+    "name": "1. Division",
+    "country": "NO"
+  },
+  "114": {
+    "name": "Superettan",
+    "country": "SE"
+  },
+  "208": {
+    "name": "Challenge League",
+    "country": "CH"
+  },
+  "262": {
+    "name": "Liga MX",
+    "country": "MX"
+  },
+  "263": {
+    "name": "Liga de Expansi\u00f3n MX",
+    "country": "MX"
+  },
+  "259": {
+    "name": "Canadian Championship",
+    "country": "CA"
+  },
+  "278": {
+    "name": "Super League",
+    "country": "MY"
+  },
+  "279": {
+    "name": "Premier League",
+    "country": "MY"
+  },
+  "280": {
+    "name": "Premiership",
+    "country": "NZ"
+  },
+  "281": {
+    "name": "Primera Divisi\u00f3n",
+    "country": "PE"
+  },
+  "282": {
+    "name": "Segunda Divisi\u00f3n",
+    "country": "PE"
+  },
+  "283": {
+    "name": "Liga I",
+    "country": "RO"
+  },
+  "284": {
+    "name": "Liga II",
+    "country": "RO"
+  },
+  "286": {
+    "name": "Super Liga",
+    "country": "RS"
+  },
+  "287": {
+    "name": "Prva Liga",
+    "country": "RS"
+  },
+  "288": {
+    "name": "Premier Soccer League",
+    "country": "ZA"
+  },
+  "289": {
+    "name": "1st Division",
+    "country": "ZA"
+  },
+  "290": {
+    "name": "Persian Gulf Pro League",
+    "country": "IR"
+  },
+  "291": {
+    "name": "Azadegan League",
+    "country": "IR"
+  },
+  "292": {
+    "name": "K League 1",
+    "country": "KR"
+  },
+  "293": {
+    "name": "K League 2",
+    "country": "KR"
+  },
+  "307": {
+    "name": "Pro League",
+    "country": "SA"
+  },
+  "308": {
+    "name": "Division 1",
+    "country": "SA"
+  },
+  "309": {
+    "name": "Division 2",
+    "country": "SA"
+  },
+  "252": {
+    "name": "Division Profesional - Clausura",
+    "country": "PY"
+  },
+  "166": {
+    "name": "2. Deild",
+    "country": "IS"
+  },
+  "592": {
+    "name": "Division 2 - Norra G\u00f6taland",
+    "country": "SE"
+  },
+  "593": {
+    "name": "Division 2 - Norra Svealand",
+    "country": "SE"
+  },
+  "594": {
+    "name": "Division 2 - Norrland",
+    "country": "SE"
+  },
+  "595": {
+    "name": "Division 2 - S\u00f6dra Svealand",
+    "country": "SE"
+  },
+  "596": {
+    "name": "Division 2 - V\u00e4stra G\u00f6taland",
+    "country": "SE"
+  },
+  "597": {
+    "name": "Division 2 - \u00d6stra G\u00f6taland",
+    "country": "SE"
+  },
+  "511": {
+    "name": "Cup",
+    "country": "TN"
+  },
+  "488": {
+    "name": "U19 Bundesliga",
+    "country": "DE"
+  },
+  "805": {
+    "name": "Copa Centroamericana",
+    "country": "AA"
+  },
+  "806": {
+    "name": "OFC Nations Cup",
+    "country": "AA"
+  },
+  "766": {
+    "name": "China Cup",
+    "country": "AA"
+  },
+  "827": {
+    "name": "Crown Prince Cup",
+    "country": "SA"
+  },
+  "372": {
+    "name": "Second League",
+    "country": "MK"
+  },
+  "174": {
+    "name": "Cup",
+    "country": "BG"
+  },
+  "10": {
+    "name": "Friendlies",
+    "country": "AA"
+  },
+  "14": {
+    "name": "UEFA Youth League",
+    "country": "AA"
+  },
+  "18": {
+    "name": "AFC Cup",
+    "country": "AA"
+  },
+  "20": {
+    "name": "CAF Confederation Cup",
+    "country": "AA"
+  },
+  "38": {
+    "name": "UEFA U21 Championship",
+    "country": "AA"
+  },
+  "559": {
+    "name": "League Cup",
+    "country": "GB"
+  },
+  "560": {
+    "name": "Presidents Cup",
+    "country": "AE"
+  },
+  "561": {
+    "name": "Premier Intermediate League",
+    "country": "GB"
+  },
+  "407": {
+    "name": "Championship",
+    "country": "GB"
+  },
+  "408": {
+    "name": "Premiership",
+    "country": "GB"
+  },
+  "331": {
+    "name": "Division 1",
+    "country": "KW"
+  },
+  "425": {
+    "name": "Premier League",
+    "country": "SY"
+  },
+  "77": {
+    "name": "Alagoano",
+    "country": "BR"
+  },
+  "337": {
+    "name": "Druha Liga - Group B",
+    "country": "UA"
+  },
+  "185": {
+    "name": "League Cup",
+    "country": "GB"
+  },
+  "490": {
+    "name": "World Cup - U20",
+    "country": "AA"
+  },
+  "492": {
+    "name": "Tweede Divisie",
+    "country": "NL"
+  },
+  "498": {
+    "name": "Cup",
+    "country": "KZ"
+  },
+  "504": {
+    "name": "King's Cup",
+    "country": "SA"
+  },
+  "507": {
+    "name": "Cup",
+    "country": "ZA"
+  },
+  "508": {
+    "name": "League Cup",
+    "country": "ZA"
+  },
+  "510": {
+    "name": "1. Liga Promotion",
+    "country": "CH"
+  },
+  "584": {
+    "name": "Premier League",
+    "country": "LY"
+  },
+  "589": {
+    "name": "Taiwan Football Premier League",
+    "country": "TW"
+  },
+  "258": {
+    "name": "Canadian Soccer League",
+    "country": "CA"
+  },
+  "274": {
+    "name": "Liga 1",
+    "country": "ID"
+  },
+  "304": {
+    "name": "Liga Paname\u00f1a de F\u00fatbol",
+    "country": "PA"
+  },
+  "106": {
+    "name": "Ekstraklasa",
+    "country": "PL"
+  },
+  "172": {
+    "name": "First League",
+    "country": "BG"
+  },
+  "5": {
+    "name": "UEFA Nations League",
+    "country": "AA"
+  },
+  "163": {
+    "name": "Liga de Ascenso",
+    "country": "CR"
+  },
+  "111": {
+    "name": "FAW Championship",
+    "country": "GB"
+  },
+  "265": {
+    "name": "Primera Divisi\u00f3n",
+    "country": "CL"
+  },
+  "266": {
+    "name": "Primera B",
+    "country": "CL"
+  },
+  "277": {
+    "name": "Super League",
+    "country": "KE"
+  },
+  "318": {
+    "name": "1. Division",
+    "country": "CY"
+  },
+  "319": {
+    "name": "2. Division",
+    "country": "CY"
+  },
+  "320": {
+    "name": "3. Division",
+    "country": "CY"
+  },
+  "201": {
+    "name": "Botola 2",
+    "country": "MA"
+  },
+  "323": {
+    "name": "Indian Super League",
+    "country": "IN"
+  },
+  "324": {
+    "name": "I-League",
+    "country": "IN"
+  },
+  "107": {
+    "name": "I Liga",
+    "country": "PL"
+  },
+  "332": {
+    "name": "Super Liga",
+    "country": "SK"
+  },
+  "345": {
+    "name": "Czech Liga",
+    "country": "CZ"
+  },
+  "346": {
+    "name": "FNL",
+    "country": "CZ"
+  },
+  "355": {
+    "name": "First League",
+    "country": "ME"
+  },
+  "356": {
+    "name": "Second League",
+    "country": "ME"
+  },
+  "344": {
+    "name": "Primera Divisi\u00f3n",
+    "country": "BO"
+  },
+  "256": {
+    "name": "USL League Two",
+    "country": "US"
+  },
+  "557": {
+    "name": "Super Cup",
+    "country": "NO"
+  },
+  "808": {
+    "name": "CONCACAF Nations League - Qualification",
+    "country": "AA"
+  },
+  "373": {
+    "name": "1. SNL",
+    "country": "SI"
+  },
+  "374": {
+    "name": "2. SNL",
+    "country": "SI"
+  },
+  "391": {
+    "name": "Super League",
+    "country": "MW"
+  },
+  "143": {
+    "name": "Copa del Rey",
+    "country": "ES"
+  },
+  "405": {
+    "name": "National Soccer League",
+    "country": "RW"
+  },
+  "409": {
+    "name": "Premier League",
+    "country": "NA"
+  },
+  "416": {
+    "name": "Premier League",
+    "country": "BZ"
+  },
+  "212": {
+    "name": "Cup",
+    "country": "HR"
+  },
+  "384": {
+    "name": "State Cup",
+    "country": "IL"
+  },
+  "285": {
+    "name": "Cupa Rom\u00e2niei",
+    "country": "RO"
+  },
+  "321": {
+    "name": "Cup",
+    "country": "CY"
+  },
+  "31": {
+    "name": "World Cup - Qualification CONCACAF",
+    "country": "AA"
+  },
+  "32": {
+    "name": "World Cup - Qualification Europe",
+    "country": "AA"
+  },
+  "33": {
+    "name": "World Cup - Qualification Oceania",
+    "country": "AA"
+  },
+  "34": {
+    "name": "World Cup - Qualification South America",
+    "country": "AA"
+  },
+  "29": {
+    "name": "World Cup - Qualification Africa",
+    "country": "AA"
+  },
+  "30": {
+    "name": "World Cup - Qualification Asia",
+    "country": "AA"
+  },
+  "530": {
+    "name": "Super Cup",
+    "country": "GE"
+  },
+  "718": {
+    "name": "Piala Indonesia",
+    "country": "ID"
+  },
+  "149": {
+    "name": "Second Amateur Division - VFV A",
+    "country": "BE"
+  },
+  "150": {
+    "name": "Second Amateur Division - VFV B",
+    "country": "BE"
+  },
+  "151": {
+    "name": "Third Amateur Division - VFV A",
+    "country": "BE"
+  },
+  "152": {
+    "name": "Third Amateur Division - VFV B",
+    "country": "BE"
+  },
+  "175": {
+    "name": "Third League - Northeast",
+    "country": "BG"
+  },
+  "176": {
+    "name": "Third League - Northwest",
+    "country": "BG"
+  },
+  "177": {
+    "name": "Third League - Southeast",
+    "country": "BG"
+  },
+  "178": {
+    "name": "Third League - Southwest",
+    "country": "BG"
+  },
+  "49": {
+    "name": "National League - Play-offs",
+    "country": "GB"
+  },
+  "491": {
+    "name": "L\u00f8gmanssteypid",
+    "country": "FO"
+  },
+  "493": {
+    "name": "UEFA U19 Championship",
+    "country": "AA"
+  },
+  "499": {
+    "name": "Malaysia Cup",
+    "country": "MY"
+  },
+  "516": {
+    "name": "Super Cup",
+    "country": "DZ"
+  },
+  "537": {
+    "name": "CONCACAF U20",
+    "country": "AA"
+  },
+  "544": {
+    "name": "FA Cup",
+    "country": "HK"
+  },
+  "545": {
+    "name": "AIFF Super Cup",
+    "country": "IN"
+  },
+  "224": {
+    "name": "Landesliga - Burgenland",
+    "country": "AT"
+  },
+  "225": {
+    "name": "Landesliga - Karnten",
+    "country": "AT"
+  },
+  "226": {
+    "name": "Landesliga - Niederosterreich",
+    "country": "AT"
+  },
+  "227": {
+    "name": "Landesliga - Oberosterreich",
+    "country": "AT"
+  },
+  "228": {
+    "name": "Landesliga - Salzburg",
+    "country": "AT"
+  },
+  "229": {
+    "name": "Landesliga - Steiermark",
+    "country": "AT"
+  },
+  "230": {
+    "name": "Landesliga - Tirol",
+    "country": "AT"
+  },
+  "231": {
+    "name": "Landesliga - Vorarlbergliga",
+    "country": "AT"
+  },
+  "232": {
+    "name": "Landesliga - Wien",
+    "country": "AT"
+  },
+  "148": {
+    "name": "Second Amateur Division - ACFF",
+    "country": "BE"
+  },
+  "153": {
+    "name": "Provincial - Antwerpen",
+    "country": "BE"
+  },
+  "154": {
+    "name": "Provincial - Brabant VFV",
+    "country": "BE"
+  },
+  "155": {
+    "name": "Provincial - Hainaut",
+    "country": "BE"
+  },
+  "156": {
+    "name": "Provincial - Liege",
+    "country": "BE"
+  },
+  "157": {
+    "name": "Provincial - Limburg",
+    "country": "BE"
+  },
+  "158": {
+    "name": "Provincial - Luxembourg",
+    "country": "BE"
+  },
+  "159": {
+    "name": "Provincial - Namur",
+    "country": "BE"
+  },
+  "160": {
+    "name": "Provincial - Oost-Vlaanderen",
+    "country": "BE"
+  },
+  "161": {
+    "name": "Provincial - West-Vlaanderen",
+    "country": "BE"
+  },
+  "423": {
+    "name": "Ligue 1",
+    "country": "BF"
+  },
+  "424": {
+    "name": "Ligue 1",
+    "country": "CG"
+  },
+  "213": {
+    "name": "Third NL - Istok",
+    "country": "HR"
+  },
+  "214": {
+    "name": "Third NL - Jug",
+    "country": "HR"
+  },
+  "215": {
+    "name": "Third NL - Sjever",
+    "country": "HR"
+  },
+  "216": {
+    "name": "Third NL - Sredite",
+    "country": "HR"
+  },
+  "217": {
+    "name": "Third NL - Zapad",
+    "country": "HR"
+  },
+  "348": {
+    "name": "3. liga - CFL A",
+    "country": "CZ"
+  },
+  "349": {
+    "name": "3. liga - MSFL",
+    "country": "CZ"
+  },
+  "350": {
+    "name": "4. liga - Divizie A",
+    "country": "CZ"
+  },
+  "351": {
+    "name": "4. liga - Divizie B",
+    "country": "CZ"
+  },
+  "352": {
+    "name": "4. liga - Divizie C",
+    "country": "CZ"
+  },
+  "353": {
+    "name": "4. liga - Divizie D",
+    "country": "CZ"
+  },
+  "354": {
+    "name": "4. liga - Divizie E",
+    "country": "CZ"
+  },
+  "50": {
+    "name": "National League - North",
+    "country": "GB"
+  },
+  "51": {
+    "name": "National League - South",
+    "country": "GB"
+  },
+  "52": {
+    "name": "Non League Div One - Isthmian North",
+    "country": "GB"
+  },
+  "53": {
+    "name": "Non League Div One - Isthmian South Central",
+    "country": "GB"
+  },
+  "54": {
+    "name": "Non League Div One - Northern West",
+    "country": "GB"
+  },
+  "55": {
+    "name": "Non League Div One - Northern Midlands",
+    "country": "GB"
+  },
+  "56": {
+    "name": "Non League Div One - Southern South",
+    "country": "GB"
+  },
+  "57": {
+    "name": "Non League Div One - Isthmian South East",
+    "country": "GB"
+  },
+  "58": {
+    "name": "Non League Premier - Isthmian",
+    "country": "GB"
+  },
+  "59": {
+    "name": "Non League Premier - Northern",
+    "country": "GB"
+  },
+  "60": {
+    "name": "Non League Premier - Southern South",
+    "country": "GB"
+  },
+  "92": {
+    "name": "Derde Divisie - Saturday",
+    "country": "NL"
+  },
+  "93": {
+    "name": "Derde Divisie - Sunday",
+    "country": "NL"
+  },
+  "109": {
+    "name": "II Liga - East",
+    "country": "PL"
+  },
+  "341": {
+    "name": "Cup",
+    "country": "VN"
+  },
+  "238": {
+    "name": "Youth Championship",
+    "country": "RU"
+  },
+  "83": {
+    "name": "Regionalliga - Bayern",
+    "country": "DE"
+  },
+  "84": {
+    "name": "Regionalliga - Nord",
+    "country": "DE"
+  },
+  "85": {
+    "name": "Regionalliga - Nordost",
+    "country": "DE"
+  },
+  "86": {
+    "name": "Regionalliga - SudWest",
+    "country": "DE"
+  },
+  "87": {
+    "name": "Regionalliga - West",
+    "country": "DE"
+  },
+  "426": {
+    "name": "Serie D - Girone A",
+    "country": "IT"
+  },
+  "427": {
+    "name": "Serie D - Girone B",
+    "country": "IT"
+  },
+  "428": {
+    "name": "Serie D - Girone C",
+    "country": "IT"
+  },
+  "429": {
+    "name": "Serie D - Girone D",
+    "country": "IT"
+  },
+  "430": {
+    "name": "Serie D - Girone E",
+    "country": "IT"
+  },
+  "431": {
+    "name": "Serie D - Girone F",
+    "country": "IT"
+  },
+  "432": {
+    "name": "Serie D - Girone G",
+    "country": "IT"
+  },
+  "433": {
+    "name": "Serie D - Girone H",
+    "country": "IT"
+  },
+  "434": {
+    "name": "Serie D - Girone I",
+    "country": "IT"
+  },
+  "435": {
+    "name": "Primera Divisi\u00f3n RFEF - Group 1",
+    "country": "ES"
+  },
+  "436": {
+    "name": "Primera Divisi\u00f3n RFEF - Group 2",
+    "country": "ES"
+  },
+  "437": {
+    "name": "Primera Divisi\u00f3n RFEF - Group 3",
+    "country": "ES"
+  },
+  "438": {
+    "name": "Primera Divisi\u00f3n RFEF - Group 4",
+    "country": "ES"
+  },
+  "439": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 1",
+    "country": "ES"
+  },
+  "440": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 2",
+    "country": "ES"
+  },
+  "441": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 3",
+    "country": "ES"
+  },
+  "442": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 4",
+    "country": "ES"
+  },
+  "443": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 5",
+    "country": "ES"
+  },
+  "444": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 6",
+    "country": "ES"
+  },
+  "445": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 7",
+    "country": "ES"
+  },
+  "446": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 8",
+    "country": "ES"
+  },
+  "447": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 9",
+    "country": "ES"
+  },
+  "448": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 10",
+    "country": "ES"
+  },
+  "449": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 11",
+    "country": "ES"
+  },
+  "450": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 12",
+    "country": "ES"
+  },
+  "451": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 13",
+    "country": "ES"
+  },
+  "452": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 14",
+    "country": "ES"
+  },
+  "453": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 15",
+    "country": "ES"
+  },
+  "454": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 16",
+    "country": "ES"
+  },
+  "455": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 17",
+    "country": "ES"
+  },
+  "456": {
+    "name": "Tercera Divisi\u00f3n RFEF - Group 18",
+    "country": "ES"
+  },
+  "457": {
+    "name": "Campeonato de Portugal Prio - Group A",
+    "country": "PT"
+  },
+  "458": {
+    "name": "Campeonato de Portugal Prio - Group B",
+    "country": "PT"
+  },
+  "459": {
+    "name": "Campeonato de Portugal Prio - Group C",
+    "country": "PT"
+  },
+  "460": {
+    "name": "Campeonato de Portugal Prio - Group D",
+    "country": "PT"
+  },
+  "461": {
+    "name": "National 3 - Group A",
+    "country": "FR"
+  },
+  "462": {
+    "name": "National 3 - Group B",
+    "country": "FR"
+  },
+  "463": {
+    "name": "National 3 - Group C",
+    "country": "FR"
+  },
+  "464": {
+    "name": "National 3 - Group D",
+    "country": "FR"
+  },
+  "465": {
+    "name": "National 3 - Group E",
+    "country": "FR"
+  },
+  "466": {
+    "name": "National 3 - Group F",
+    "country": "FR"
+  },
+  "467": {
+    "name": "National 3 - Group H",
+    "country": "FR"
+  },
+  "468": {
+    "name": "National 3 - Group I",
+    "country": "FR"
+  },
+  "469": {
+    "name": "National 3 - Group J",
+    "country": "FR"
+  },
+  "470": {
+    "name": "National 3 - Group K",
+    "country": "FR"
+  },
+  "471": {
+    "name": "National 3 - Group L",
+    "country": "FR"
+  },
+  "472": {
+    "name": "National 3 - Group M",
+    "country": "FR"
+  },
+  "473": {
+    "name": "2. Division - Group 1",
+    "country": "NO"
+  },
+  "474": {
+    "name": "2. Division - Group 2",
+    "country": "NO"
+  },
+  "484": {
+    "name": "Frauenliga",
+    "country": "AT"
+  },
+  "485": {
+    "name": "Federation Cup",
+    "country": "BH"
+  },
+  "486": {
+    "name": "Coppa",
+    "country": "BY"
+  },
+  "487": {
+    "name": "First Amateur Division",
+    "country": "BE"
+  },
+  "489": {
+    "name": "USL League One",
+    "country": "US"
+  },
+  "494": {
+    "name": "Super League 2",
+    "country": "GR"
+  },
+  "501": {
+    "name": "Copa Paraguay",
+    "country": "PY"
+  },
+  "502": {
+    "name": "Copa Bicentenario",
+    "country": "PE"
+  },
+  "503": {
+    "name": "Copa Per\u00fa",
+    "country": "PE"
+  },
+  "509": {
+    "name": "8 Cup",
+    "country": "ZA"
+  },
+  "515": {
+    "name": "U21 League 1",
+    "country": "DZ"
+  },
+  "517": {
+    "name": "Trofeo de Campeones de la Superliga",
+    "country": "AR"
+  },
+  "518": {
+    "name": "Reserve Pro League",
+    "country": "BE"
+  },
+  "523": {
+    "name": "NISA",
+    "country": "US"
+  },
+  "525": {
+    "name": "UEFA Champions League Women",
+    "country": "AA"
+  },
+  "533": {
+    "name": "CAF Super Cup",
+    "country": "AA"
+  },
+  "534": {
+    "name": "CONCACAF Caribbean Club Shield",
+    "country": "AA"
+  },
+  "546": {
+    "name": "FAI President's Cup",
+    "country": "IE"
+  },
+  "768": {
+    "name": "Arab Club Champions Cup",
+    "country": "AA"
+  },
+  "769": {
+    "name": "Premier League Asia Trophy",
+    "country": "AA"
+  },
+  "770": {
+    "name": "Pacific Games",
+    "country": "AA"
+  },
+  "772": {
+    "name": "Leagues Cup",
+    "country": "AA"
+  },
+  "773": {
+    "name": "Sudamericano U20",
+    "country": "AA"
+  },
+  "254": {
+    "name": "NWSL Women",
+    "country": "US"
+  },
+  "260": {
+    "name": "Pacific Coast Soccer League",
+    "country": "CA"
+  },
+  "192": {
+    "name": "New South Wales NPL",
+    "country": "AU"
+  },
+  "194": {
+    "name": "South Australia NPL",
+    "country": "AU"
+  },
+  "195": {
+    "name": "Victoria NPL",
+    "country": "AU"
+  },
+  "196": {
+    "name": "Western Australia NPL",
+    "country": "AU"
+  },
+  "357": {
+    "name": "Premier Division",
+    "country": "IE"
+  },
+  "358": {
+    "name": "First Division",
+    "country": "IE"
+  },
+  "482": {
+    "name": "Queensland NPL",
+    "country": "AU"
+  },
+  "566": {
+    "name": "Ligue A",
+    "country": "BI"
+  },
+  "642": {
+    "name": "Cura\u00e7ao Sekshon Pag\u00e1",
+    "country": "CW"
+  },
+  "655": {
+    "name": "Copa Constituci\u00f3",
+    "country": "AD"
+  },
+  "664": {
+    "name": "Superliga",
+    "country": "XK"
+  },
+  "665": {
+    "name": "Cup",
+    "country": "XK"
+  },
+  "677": {
+    "name": "QSL Cup",
+    "country": "QA"
+  },
+  "698": {
+    "name": "FA Women's Cup",
+    "country": "GB"
+  },
+  "714": {
+    "name": "Cup",
+    "country": "EG"
+  },
+  "716": {
+    "name": "Senior Shield",
+    "country": "HK"
+  },
+  "275": {
+    "name": "Liga 2",
+    "country": "ID"
+  },
+  "395": {
+    "name": "Liga 1",
+    "country": "MD"
+  },
+  "267": {
+    "name": "Copa Chile",
+    "country": "CL"
+  },
+  "171": {
+    "name": "FA Cup",
+    "country": "CN"
+  },
+  "241": {
+    "name": "Copa Colombia",
+    "country": "CO"
+  },
+  "147": {
+    "name": "Cup",
+    "country": "BE"
+  },
+  "167": {
+    "name": "Cup",
+    "country": "IS"
+  },
+  "168": {
+    "name": "League Cup",
+    "country": "IS"
+  },
+  "359": {
+    "name": "FAI Cup",
+    "country": "IE"
+  },
+  "360": {
+    "name": "League Cup",
+    "country": "IE"
+  },
+  "385": {
+    "name": "Toto Cup Ligat Al",
+    "country": "IL"
+  },
+  "264": {
+    "name": "Copa MX",
+    "country": "MX"
+  },
+  "11": {
+    "name": "CONMEBOL Sudamericana",
+    "country": "AA"
+  },
+  "12": {
+    "name": "CAF Champions League",
+    "country": "AA"
+  },
+  "13": {
+    "name": "CONMEBOL Libertadores",
+    "country": "AA"
+  },
+  "209": {
+    "name": "Schweizer Pokal",
+    "country": "CH"
+  },
+  "115": {
+    "name": "Svenska Cupen",
+    "country": "SE"
+  },
+  "375": {
+    "name": "Cup",
+    "country": "SI"
+  },
+  "181": {
+    "name": "FA Cup",
+    "country": "GB"
+  },
+  "182": {
+    "name": "Challenge Cup",
+    "country": "GB"
+  },
+  "237": {
+    "name": "Cup",
+    "country": "RU"
+  },
+  "97": {
+    "name": "Ta\u00e7a da Liga",
+    "country": "PT"
+  },
+  "108": {
+    "name": "Cup",
+    "country": "PL"
+  },
+  "105": {
+    "name": "NM Cupen",
+    "country": "NO"
+  },
+  "294": {
+    "name": "FA Cup",
+    "country": "KR"
+  },
+  "325": {
+    "name": "Santosh Trophy",
+    "country": "IN"
+  },
+  "347": {
+    "name": "Cup",
+    "country": "CZ"
+  },
+  "35": {
+    "name": "Asian Cup - Qualification",
+    "country": "AA"
+  },
+  "572": {
+    "name": "Srpska Liga - Belgrade",
+    "country": "RS"
+  },
+  "573": {
+    "name": "Srpska Liga - Vojvodina",
+    "country": "RS"
+  },
+  "574": {
+    "name": "Srpska Liga - East",
+    "country": "RS"
+  },
+  "575": {
+    "name": "Srpska Liga - West",
+    "country": "RS"
+  },
+  "576": {
+    "name": "Gamma Ethniki - Group 1",
+    "country": "GR"
+  },
+  "577": {
+    "name": "Gamma Ethniki - Group 2",
+    "country": "GR"
+  },
+  "578": {
+    "name": "Gamma Ethniki - Group 3",
+    "country": "GR"
+  },
+  "579": {
+    "name": "Gamma Ethniki - Group 4",
+    "country": "GR"
+  },
+  "580": {
+    "name": "Gamma Ethniki - Group 5",
+    "country": "GR"
+  },
+  "581": {
+    "name": "Gamma Ethniki - Group 6",
+    "country": "GR"
+  },
+  "582": {
+    "name": "Gamma Ethniki - Group 7",
+    "country": "GR"
+  },
+  "583": {
+    "name": "Gamma Ethniki - Group 8",
+    "country": "GR"
+  },
+  "587": {
+    "name": "World Cup - U17",
+    "country": "AA"
+  },
+  "590": {
+    "name": "A Division",
+    "country": "NP"
+  },
+  "599": {
+    "name": "1. Liga Classic - Group 1",
+    "country": "CH"
+  },
+  "600": {
+    "name": "1. Liga Classic - Group 2",
+    "country": "CH"
+  },
+  "601": {
+    "name": "1. Liga Classic - Group 3",
+    "country": "CH"
+  },
+  "613": {
+    "name": "Baiano - 2",
+    "country": "BR"
+  },
+  "620": {
+    "name": "Cearense - 2",
+    "country": "BR"
+  },
+  "625": {
+    "name": "Carioca - 2",
+    "country": "BR"
+  },
+  "633": {
+    "name": "NB III - Keleti",
+    "country": "HU"
+  },
+  "634": {
+    "name": "NB III - Nyugati",
+    "country": "HU"
+  },
+  "635": {
+    "name": "NB III - K\u00f6z\u00e9p",
+    "country": "HU"
+  },
+  "638": {
+    "name": "Kvindeliga",
+    "country": "DK"
+  },
+  "602": {
+    "name": "Baiano - 1",
+    "country": "BR"
+  },
+  "603": {
+    "name": "Paraibano",
+    "country": "BR"
+  },
+  "604": {
+    "name": "Catarinense - 1",
+    "country": "BR"
+  },
+  "605": {
+    "name": "Paulista - A3",
+    "country": "BR"
+  },
+  "606": {
+    "name": "Paranaense - 1",
+    "country": "BR"
+  },
+  "607": {
+    "name": "Roraimense",
+    "country": "BR"
+  },
+  "608": {
+    "name": "Maranhense",
+    "country": "BR"
+  },
+  "609": {
+    "name": "Cearense - 1",
+    "country": "BR"
+  },
+  "610": {
+    "name": "Brasiliense",
+    "country": "BR"
+  },
+  "611": {
+    "name": "Capixaba",
+    "country": "BR"
+  },
+  "612": {
+    "name": "Copa do Nordeste",
+    "country": "BR"
+  },
+  "614": {
+    "name": "Paranaense - 2",
+    "country": "BR"
+  },
+  "615": {
+    "name": "Rondoniense",
+    "country": "BR"
+  },
+  "616": {
+    "name": "Potiguar",
+    "country": "BR"
+  },
+  "617": {
+    "name": "Copa do Brasil U20",
+    "country": "BR"
+  },
+  "618": {
+    "name": "S\u00e3o Paulo Youth Cup",
+    "country": "BR"
+  },
+  "619": {
+    "name": "Mineiro - 2",
+    "country": "BR"
+  },
+  "621": {
+    "name": "Piauiense",
+    "country": "BR"
+  },
+  "622": {
+    "name": "Pernambucano - 1",
+    "country": "BR"
+  },
+  "623": {
+    "name": "Sul-Matogrossense",
+    "country": "BR"
+  },
+  "624": {
+    "name": "Carioca - 1",
+    "country": "BR"
+  },
+  "626": {
+    "name": "Sergipano",
+    "country": "BR"
+  },
+  "627": {
+    "name": "Paraense",
+    "country": "BR"
+  },
+  "628": {
+    "name": "Goiano - 1",
+    "country": "BR"
+  },
+  "629": {
+    "name": "Mineiro - 1",
+    "country": "BR"
+  },
+  "630": {
+    "name": "Matogrossense",
+    "country": "BR"
+  },
+  "631": {
+    "name": "Tocantinense",
+    "country": "BR"
+  },
+  "632": {
+    "name": "Supercopa do Brasil",
+    "country": "BR"
+  },
+  "636": {
+    "name": "\u00ddokary Liga",
+    "country": "TM"
+  },
+  "637": {
+    "name": "V.League 2",
+    "country": "VN"
+  },
+  "639": {
+    "name": "Super Cup",
+    "country": "IS"
+  },
+  "640": {
+    "name": "Kansallinen Liiga",
+    "country": "FI"
+  },
+  "641": {
+    "name": "NWSL Women - Challenge Cup",
+    "country": "US"
+  },
+  "475": {
+    "name": "Paulista - A1",
+    "country": "BR"
+  },
+  "476": {
+    "name": "Paulista - A2",
+    "country": "BR"
+  },
+  "477": {
+    "name": "Ga\u00facho - 1",
+    "country": "BR"
+  },
+  "478": {
+    "name": "Ga\u00facho - 2",
+    "country": "BR"
+  },
+  "479": {
+    "name": "Canadian Premier League",
+    "country": "CA"
+  },
+  "483": {
+    "name": "Copa de la Superliga",
+    "country": "AR"
+  },
+  "500": {
+    "name": "FA Cup",
+    "country": "MY"
+  },
+  "532": {
+    "name": "AFC U23 Championship",
+    "country": "AA"
+  },
+  "536": {
+    "name": "CONCACAF Nations League",
+    "country": "AA"
+  },
+  "538": {
+    "name": "Africa Cup of Nations U20",
+    "country": "AA"
+  },
+  "540": {
+    "name": "CONMEBOL Libertadores U20",
+    "country": "AA"
+  },
+  "541": {
+    "name": "CONMEBOL Recopa",
+    "country": "AA"
+  },
+  "542": {
+    "name": "Iraqi League",
+    "country": "IQ"
+  },
+  "548": {
+    "name": "Super Cup",
+    "country": "JP"
+  },
+  "549": {
+    "name": "Damallsvenskan",
+    "country": "SE"
+  },
+  "755": {
+    "name": "Oberliga - Nordost-S\u00fcd",
+    "country": "DE"
+  },
+  "756": {
+    "name": "Cup",
+    "country": "MK"
+  },
+  "757": {
+    "name": "Irish Cup",
+    "country": "GB"
+  },
+  "758": {
+    "name": "Premier Division",
+    "country": "GI"
+  },
+  "759": {
+    "name": "Liga Mayor",
+    "country": "DO"
+  },
+  "760": {
+    "name": "LFA First Division",
+    "country": "LR"
+  },
+  "761": {
+    "name": "Cup",
+    "country": "LI"
+  },
+  "762": {
+    "name": "Premier League",
+    "country": "MR"
+  },
+  "763": {
+    "name": "Mauritian League",
+    "country": "MU"
+  },
+  "764": {
+    "name": "Premier League",
+    "country": "MN"
+  },
+  "765": {
+    "name": "PFL",
+    "country": "PH"
+  },
+  "767": {
+    "name": "CONCACAF League",
+    "country": "AA"
+  },
+  "771": {
+    "name": "COSAFA U20 Championship",
+    "country": "AA"
+  },
+  "774": {
+    "name": "3. Division - Girone 1",
+    "country": "NO"
+  },
+  "775": {
+    "name": "3. Division - Girone 2",
+    "country": "NO"
+  },
+  "776": {
+    "name": "3. Division - Girone 3",
+    "country": "NO"
+  },
+  "777": {
+    "name": "3. Division - Girone 4",
+    "country": "NO"
+  },
+  "778": {
+    "name": "3. Division - Girone 5",
+    "country": "NO"
+  },
+  "779": {
+    "name": "3. Division - Girone 6",
+    "country": "NO"
+  },
+  "780": {
+    "name": "III Liga - Group 1",
+    "country": "PL"
+  },
+  "781": {
+    "name": "III Liga - Group 2",
+    "country": "PL"
+  },
+  "782": {
+    "name": "III Liga - Group 3",
+    "country": "PL"
+  },
+  "783": {
+    "name": "III Liga - Group 4",
+    "country": "PL"
+  },
+  "784": {
+    "name": "Liga III - Serie 1",
+    "country": "RO"
+  },
+  "785": {
+    "name": "Liga III - Serie 2",
+    "country": "RO"
+  },
+  "786": {
+    "name": "Liga III - Serie 3",
+    "country": "RO"
+  },
+  "787": {
+    "name": "Liga III - Serie 4",
+    "country": "RO"
+  },
+  "788": {
+    "name": "Liga III - Serie 5",
+    "country": "RO"
+  },
+  "789": {
+    "name": "Liga III - Serie 6",
+    "country": "RO"
+  },
+  "790": {
+    "name": "Liga III - Serie 7",
+    "country": "RO"
+  },
+  "791": {
+    "name": "Liga III - Serie 8",
+    "country": "RO"
+  },
+  "792": {
+    "name": "Liga III - Serie 9",
+    "country": "RO"
+  },
+  "793": {
+    "name": "Liga III - Serie 10",
+    "country": "RO"
+  },
+  "794": {
+    "name": "3. SNL - East",
+    "country": "SI"
+  },
+  "795": {
+    "name": "3. SNL - West",
+    "country": "SI"
+  },
+  "796": {
+    "name": "2. Liga Interregional - Group 1",
+    "country": "CH"
+  },
+  "797": {
+    "name": "2. Liga Interregional - Group 2",
+    "country": "CH"
+  },
+  "798": {
+    "name": "2. Liga Interregional - Group 3",
+    "country": "CH"
+  },
+  "799": {
+    "name": "2. Liga Interregional - Group 4",
+    "country": "CH"
+  },
+  "800": {
+    "name": "2. Liga Interregional - Group 5",
+    "country": "CH"
+  },
+  "801": {
+    "name": "2. Liga Interregional - Group 6",
+    "country": "CH"
+  },
+  "802": {
+    "name": "Cup",
+    "country": "UZ"
+  },
+  "809": {
+    "name": "Super Cup",
+    "country": "AD"
+  },
+  "810": {
+    "name": "Super Copa",
+    "country": "AR"
+  },
+  "811": {
+    "name": "Federation Cup",
+    "country": "BD"
+  },
+  "813": {
+    "name": "Elite Two",
+    "country": "CM"
+  },
+  "816": {
+    "name": "Shield Cup",
+    "country": "JO"
+  },
+  "817": {
+    "name": "Super Cup Primavera",
+    "country": "IT"
+  },
+  "819": {
+    "name": "Super Cup",
+    "country": "XK"
+  },
+  "820": {
+    "name": "Crown Prince Cup",
+    "country": "KW"
+  },
+  "821": {
+    "name": "FA Trophy",
+    "country": "MT"
+  },
+  "822": {
+    "name": "Cup",
+    "country": "MA"
+  },
+  "828": {
+    "name": "Ligue 2",
+    "country": "TN"
+  },
+  "829": {
+    "name": "Youth League",
+    "country": "TM"
+  },
+  "830": {
+    "name": "Super Cup",
+    "country": "UZ"
+  },
+  "832": {
+    "name": "Coupe de la Ligue",
+    "country": "DZ"
+  },
+  "837": {
+    "name": "Rock Cup",
+    "country": "GI"
+  },
+  "838": {
+    "name": "Super Cup",
+    "country": "JO"
+  },
+  "840": {
+    "name": "Ta\u00e7a Revela\u00e7\u00e3o U23",
+    "country": "PT"
+  },
+  "841": {
+    "name": "QFA Cup",
+    "country": "QA"
+  },
+  "843": {
+    "name": "Copa Verde",
+    "country": "BR"
+  },
+  "844": {
+    "name": "Ligue 1",
+    "country": "CD"
+  },
+  "845": {
+    "name": "GFA League",
+    "country": "GM"
+  },
+  "847": {
+    "name": "Premier League",
+    "country": "SZ"
+  },
+  "849": {
+    "name": "Baltic Cup",
+    "country": "AA"
+  },
+  "863": {
+    "name": "Cup",
+    "country": "JO"
+  },
+  "881": {
+    "name": "Olympics Men - Qualification Concacaf",
+    "country": "AA"
+  },
+  "882": {
+    "name": "Olympics Women - Qualification Asia",
+    "country": "AA"
+  },
+  "885": {
+    "name": "Campeones Cup",
+    "country": "AA"
+  },
+  "558": {
+    "name": "Supercopa",
+    "country": "PE"
+  },
+  "562": {
+    "name": "Reserve League",
+    "country": "BY"
+  },
+  "565": {
+    "name": "Liga Primera U20",
+    "country": "NI"
+  },
+  "643": {
+    "name": "3. liga - Bratislava",
+    "country": "SK"
+  },
+  "644": {
+    "name": "3. liga - West",
+    "country": "SK"
+  },
+  "645": {
+    "name": "3. liga - East",
+    "country": "SK"
+  },
+  "646": {
+    "name": "3. liga - Center",
+    "country": "SK"
+  },
+  "647": {
+    "name": "Lao League",
+    "country": "LA"
+  },
+  "648": {
+    "name": "Tasmania NPL",
+    "country": "AU"
+  },
+  "649": {
+    "name": "Supreme Division Women",
+    "country": "RU"
+  },
+  "650": {
+    "name": "Second League - Group 3",
+    "country": "RU"
+  },
+  "651": {
+    "name": "Second League - Group 1",
+    "country": "RU"
+  },
+  "652": {
+    "name": "Second League - Group 2",
+    "country": "RU"
+  },
+  "653": {
+    "name": "Second League - Group 4",
+    "country": "RU"
+  },
+  "654": {
+    "name": "Super Cup",
+    "country": "AM"
+  },
+  "656": {
+    "name": "Super Cup",
+    "country": "BG"
+  },
+  "657": {
+    "name": "Cup",
+    "country": "EE"
+  },
+  "658": {
+    "name": "Cup",
+    "country": "LV"
+  },
+  "659": {
+    "name": "Super Cup",
+    "country": "IL"
+  },
+  "660": {
+    "name": "WK-League",
+    "country": "KR"
+  },
+  "661": {
+    "name": "Cup",
+    "country": "LT"
+  },
+  "662": {
+    "name": "Copa por M\u00e9xico",
+    "country": "MX"
+  },
+  "663": {
+    "name": "Super Cup",
+    "country": "RU"
+  },
+  "666": {
+    "name": "Friendlies Women",
+    "country": "AA"
+  },
+  "667": {
+    "name": "Friendlies Clubs",
+    "country": "AA"
+  },
+  "668": {
+    "name": "1. Liga U19",
+    "country": "CZ"
+  },
+  "669": {
+    "name": "1. Liga Women",
+    "country": "CZ"
+  },
+  "670": {
+    "name": "Community Shield Women",
+    "country": "GB"
+  },
+  "671": {
+    "name": "\u00darvalsdeild Women",
+    "country": "IS"
+  },
+  "672": {
+    "name": "David Kipiani Cup",
+    "country": "GE"
+  },
+  "673": {
+    "name": "Liga MX Femenil",
+    "country": "MX"
+  },
+  "674": {
+    "name": "Cupa",
+    "country": "MD"
+  },
+  "675": {
+    "name": "U21 Divisie 1",
+    "country": "NL"
+  },
+  "676": {
+    "name": "Central Youth League",
+    "country": "PL"
+  },
+  "678": {
+    "name": "Super Cup",
+    "country": "UA"
+  },
+  "679": {
+    "name": "U21 League",
+    "country": "UA"
+  },
+  "680": {
+    "name": "Cup",
+    "country": "SK"
+  },
+  "681": {
+    "name": "Campeonato de Portugal Prio - Group E",
+    "country": "PT"
+  },
+  "682": {
+    "name": "Campeonato de Portugal Prio - Group F",
+    "country": "PT"
+  },
+  "683": {
+    "name": "Campeonato de Portugal Prio - Group G",
+    "country": "PT"
+  },
+  "684": {
+    "name": "Campeonato de Portugal Prio - Group H",
+    "country": "PT"
+  },
+  "685": {
+    "name": "3. liga - CFL B",
+    "country": "CZ"
+  },
+  "686": {
+    "name": "4. liga - Divizie F",
+    "country": "CZ"
+  },
+  "687": {
+    "name": "Regionalliga - Tirol",
+    "country": "AT"
+  },
+  "688": {
+    "name": "Regionalliga - Salzburg",
+    "country": "AT"
+  },
+  "689": {
+    "name": "Third Amateur Division - ACFF A",
+    "country": "BE"
+  },
+  "690": {
+    "name": "Third Amateur Division - ACFF B",
+    "country": "BE"
+  },
+  "691": {
+    "name": "Provincial - Brabant ACFF",
+    "country": "BE"
+  },
+  "692": {
+    "name": "Primera Divisi\u00f3n RFEF - Group 5",
+    "country": "ES"
+  },
+  "693": {
+    "name": "Gamma Ethniki - Group 9",
+    "country": "GR"
+  },
+  "694": {
+    "name": "Gamma Ethniki - Group 10",
+    "country": "GR"
+  },
+  "695": {
+    "name": "U18 Premier League - North",
+    "country": "GB"
+  },
+  "696": {
+    "name": "U18 Premier League - South",
+    "country": "GB"
+  },
+  "697": {
+    "name": "WSL Cup",
+    "country": "GB"
+  },
+  "699": {
+    "name": "Women's Championship",
+    "country": "GB"
+  },
+  "700": {
+    "name": "Kakkosen Cup",
+    "country": "FI"
+  },
+  "701": {
+    "name": "Liga Revela\u00e7\u00e3o U23",
+    "country": "PT"
+  },
+  "702": {
+    "name": "Premier League 2 Division One",
+    "country": "GB"
+  },
+  "703": {
+    "name": "Professional Development League",
+    "country": "GB"
+  },
+  "704": {
+    "name": "Coppa Italia Primavera",
+    "country": "IT"
+  },
+  "705": {
+    "name": "Campionato Primavera - 1",
+    "country": "IT"
+  },
+  "706": {
+    "name": "Campionato Primavera - 2",
+    "country": "IT"
+  },
+  "707": {
+    "name": "Cup",
+    "country": "AL"
+  },
+  "708": {
+    "name": "Super Cup",
+    "country": "AL"
+  },
+  "709": {
+    "name": "Cup",
+    "country": "AM"
+  },
+  "710": {
+    "name": "Nacional B",
+    "country": "BO"
+  },
+  "711": {
+    "name": "Segunda Divisi\u00f3n",
+    "country": "CL"
+  },
+  "712": {
+    "name": "Liga Femenina",
+    "country": "CO"
+  },
+  "713": {
+    "name": "Superliga",
+    "country": "CO"
+  },
+  "715": {
+    "name": "DFB Junioren Pokal",
+    "country": "DE"
+  },
+  "717": {
+    "name": "I-League - 2nd Division",
+    "country": "IN"
+  },
+  "719": {
+    "name": "Super Cup",
+    "country": "KW"
+  },
+  "720": {
+    "name": "Emir Cup",
+    "country": "KW"
+  },
+  "721": {
+    "name": "Cup",
+    "country": "LU"
+  },
+  "722": {
+    "name": "Liga Premier Serie A",
+    "country": "MX"
+  },
+  "723": {
+    "name": "Cup",
+    "country": "ME"
+  },
+  "724": {
+    "name": "U18 Divisie 1",
+    "country": "NL"
+  },
+  "726": {
+    "name": "Sultan Cup",
+    "country": "OM"
+  },
+  "727": {
+    "name": "Super Cup",
+    "country": "PL"
+  },
+  "728": {
+    "name": "Liga 1 Feminin",
+    "country": "RO"
+  },
+  "729": {
+    "name": "Coppa Titano",
+    "country": "SM"
+  },
+  "730": {
+    "name": "Football League - Highland League",
+    "country": "GB"
+  },
+  "731": {
+    "name": "Football League - Lowland League",
+    "country": "GB"
+  },
+  "732": {
+    "name": "Cup",
+    "country": "RS"
+  },
+  "733": {
+    "name": "I Liga - Women",
+    "country": "SK"
+  },
+  "734": {
+    "name": "Diski Challenge",
+    "country": "ZA"
+  },
+  "735": {
+    "name": "Copa Federacion",
+    "country": "ES"
+  },
+  "737": {
+    "name": "Svenska Cupen - Women",
+    "country": "SE"
+  },
+  "738": {
+    "name": "League Cup",
+    "country": "GB"
+  },
+  "739": {
+    "name": "Nationalliga A Women",
+    "country": "CH"
+  },
+  "740": {
+    "name": "CBF Brasileiro U20",
+    "country": "BR"
+  },
+  "741": {
+    "name": "Brasileiro de Aspirantes",
+    "country": "BR"
+  },
+  "742": {
+    "name": "Copa Paulista",
+    "country": "BR"
+  },
+  "744": {
+    "name": "Oberliga - Schleswig-Holstein",
+    "country": "DE"
+  },
+  "745": {
+    "name": "Oberliga - Hamburg",
+    "country": "DE"
+  },
+  "746": {
+    "name": "Oberliga - Mittelrhein",
+    "country": "DE"
+  },
+  "747": {
+    "name": "Oberliga - Westfalen",
+    "country": "DE"
+  },
+  "748": {
+    "name": "Oberliga - Niedersachsen",
+    "country": "DE"
+  },
+  "749": {
+    "name": "Oberliga - Bremen",
+    "country": "DE"
+  },
+  "750": {
+    "name": "Oberliga - Hessen",
+    "country": "DE"
+  },
+  "751": {
+    "name": "Oberliga - Niederrhein",
+    "country": "DE"
+  },
+  "752": {
+    "name": "Oberliga - Rheinland-Pfalz / Saar",
+    "country": "DE"
+  },
+  "753": {
+    "name": "Oberliga - Baden-W\u00fcrttemberg",
+    "country": "DE"
+  },
+  "754": {
+    "name": "Oberliga - Nordost-Nord",
+    "country": "DE"
+  },
+  "725": {
+    "name": "Toppserien",
+    "country": "NO"
+  },
+  "736": {
+    "name": "Elitettan",
+    "country": "SE"
+  },
+  "743": {
+    "name": "UEFA Championship - Women",
+    "country": "AA"
+  },
+  "862": {
+    "name": "3. Division",
+    "country": "DK"
+  },
+  "864": {
+    "name": "Supercopa",
+    "country": "CR"
+  },
+  "865": {
+    "name": "Liga 3",
+    "country": "PT"
+  },
+  "866": {
+    "name": "MLS All-Star",
+    "country": "US"
+  },
+  "891": {
+    "name": "Coppa Italia Serie C",
+    "country": "IT"
+  },
+  "868": {
+    "name": "Premier League",
+    "country": "PK"
+  },
+  "869": {
+    "name": "CECAFA Club Cup",
+    "country": "AA"
+  },
+  "870": {
+    "name": "Premier League",
+    "country": "UA"
+  },
+  "871": {
+    "name": "Premier League Cup",
+    "country": "GB"
+  },
+  "872": {
+    "name": "Liga Premier Serie B",
+    "country": "MX"
+  },
+  "873": {
+    "name": "Thai Champions Cup",
+    "country": "TH"
+  },
+  "874": {
+    "name": "Australia Cup",
+    "country": "AU"
+  },
+  "875": {
+    "name": "Segunda Divisi\u00f3n RFEF - Group 1",
+    "country": "ES"
+  },
+  "876": {
+    "name": "Segunda Divisi\u00f3n RFEF - Group 2",
+    "country": "ES"
+  },
+  "877": {
+    "name": "Segunda Divisi\u00f3n RFEF - Group 3",
+    "country": "ES"
+  },
+  "878": {
+    "name": "Segunda Divisi\u00f3n RFEF - Group 4",
+    "country": "ES"
+  },
+  "879": {
+    "name": "Segunda Divisi\u00f3n RFEF - Group 5",
+    "country": "ES"
+  },
+  "880": {
+    "name": "World Cup - Women - Qualification Europe",
+    "country": "AA"
+  },
+  "883": {
+    "name": "Reserve League",
+    "country": "NL"
+  },
+  "884": {
+    "name": "Super Cup",
+    "country": "SM"
+  },
+  "887": {
+    "name": "Second League - Group A",
+    "country": "EG"
+  },
+  "888": {
+    "name": "Second League - Group B",
+    "country": "EG"
+  },
+  "889": {
+    "name": "Second League - Group C",
+    "country": "EG"
+  },
+  "890": {
+    "name": "U20 Elite League",
+    "country": "AA"
+  },
+  "892": {
+    "name": "Coppa Italia Serie D",
+    "country": "IT"
+  },
+  "867": {
+    "name": "Copa Paulino Alcantara",
+    "country": "PH"
+  },
+  "895": {
+    "name": "League Cup",
+    "country": "EG"
+  },
+  "896": {
+    "name": "Super Cup",
+    "country": "AE"
+  },
+  "898": {
+    "name": "League Cup",
+    "country": "TH"
+  },
+  "902": {
+    "name": "Algarve Cup",
+    "country": "AA"
+  },
+  "903": {
+    "name": "The Atlantic Cup",
+    "country": "AA"
+  },
+  "905": {
+    "name": "Super Cup",
+    "country": "IR"
+  },
+  "812": {
+    "name": "Super Cup",
+    "country": "BY"
+  },
+  "814": {
+    "name": "Reykjavik Cup",
+    "country": "IS"
+  },
+  "815": {
+    "name": "Fotbolti.net Cup A",
+    "country": "IS"
+  },
+  "818": {
+    "name": "Super Cup",
+    "country": "KZ"
+  },
+  "823": {
+    "name": "Nasjonal U19 Champions League",
+    "country": "NO"
+  },
+  "824": {
+    "name": "Emir Cup",
+    "country": "QA"
+  },
+  "825": {
+    "name": "Qatar Cup",
+    "country": "QA"
+  },
+  "826": {
+    "name": "Super Cup",
+    "country": "SA"
+  },
+  "831": {
+    "name": "Super Cup",
+    "country": "VN"
+  },
+  "833": {
+    "name": "Queensland Premier League",
+    "country": "AU"
+  },
+  "834": {
+    "name": "South Australia State League 1",
+    "country": "AU"
+  },
+  "835": {
+    "name": "New South Wales NPL 2",
+    "country": "AU"
+  },
+  "836": {
+    "name": "Victoria NPL 2",
+    "country": "AU"
+  },
+  "839": {
+    "name": "Super Cup",
+    "country": "LT"
+  },
+  "842": {
+    "name": "Super Copa",
+    "country": "UY"
+  },
+  "846": {
+    "name": "Somali Premier League",
+    "country": "SO"
+  },
+  "848": {
+    "name": "UEFA Europa Conference League",
+    "country": "AA"
+  },
+  "851": {
+    "name": "Carioca A2",
+    "country": "BR"
+  },
+  "852": {
+    "name": "Super Cup",
+    "country": "CY"
+  },
+  "853": {
+    "name": "Supercopa de Ecuador",
+    "country": "EC"
+  },
+  "854": {
+    "name": "WE League",
+    "country": "JP"
+  },
+  "855": {
+    "name": "Dhivehi Premier League",
+    "country": "MV"
+  },
+  "856": {
+    "name": "CONCACAF Caribbean Club Championship",
+    "country": "AA"
+  },
+  "857": {
+    "name": "Campe\u00f3n de Campeones",
+    "country": "MX"
+  },
+  "858": {
+    "name": "CONCACAF Gold Cup - Qualification",
+    "country": "AA"
+  },
+  "859": {
+    "name": "COSAFA Cup",
+    "country": "AA"
+  },
+  "860": {
+    "name": "Arab Cup",
+    "country": "AA"
+  },
+  "861": {
+    "name": "U20 League",
+    "country": "MX"
+  },
+  "36": {
+    "name": "Africa Cup of Nations - Qualification",
+    "country": "AA"
+  },
+  "910": {
+    "name": "Youth Viareggio Cup",
+    "country": "AA"
+  },
+  "909": {
+    "name": "MLS Next Pro",
+    "country": "US"
+  },
+  "911": {
+    "name": "Southeast Asian Games",
+    "country": "AA"
+  },
+  "912": {
+    "name": "CONCACAF Women U17",
+    "country": "AA"
+  },
+  "913": {
+    "name": "CONMEBOL - UEFA Finalissima",
+    "country": "AA"
+  },
+  "914": {
+    "name": "Tournoi Maurice Revello",
+    "country": "AA"
+  },
+  "915": {
+    "name": "1. Division Women",
+    "country": "NO"
+  },
+  "916": {
+    "name": "Kirin Cup",
+    "country": "AA"
+  },
+  "917": {
+    "name": "Copa Ecuador",
+    "country": "EC"
+  },
+  "918": {
+    "name": "UEFA U19 Championship - Women",
+    "country": "AA"
+  },
+  "919": {
+    "name": "Mediterranean Games",
+    "country": "AA"
+  },
+  "920": {
+    "name": "World Cup - U20 - Women",
+    "country": "AA"
+  },
+  "921": {
+    "name": "UEFA U17 Championship",
+    "country": "AA"
+  },
+  "922": {
+    "name": "Africa Cup of Nations - Women",
+    "country": "AA"
+  },
+  "923": {
+    "name": "League 1 Ontario",
+    "country": "CA"
+  },
+  "924": {
+    "name": "Piala Presiden",
+    "country": "ID"
+  },
+  "926": {
+    "name": "Copa America Femenina",
+    "country": "AA"
+  },
+  "927": {
+    "name": "World Cup - Women - Qualification Concacaf",
+    "country": "AA"
+  },
+  "928": {
+    "name": "AFF U19 Championship",
+    "country": "AA"
+  },
+  "929": {
+    "name": "League Two",
+    "country": "CN"
+  },
+  "930": {
+    "name": "Copa Uruguay",
+    "country": "UY"
+  },
+  "931": {
+    "name": "Non League Premier - Southern Central",
+    "country": "GB"
+  },
+  "932": {
+    "name": "Non League Div One - Northern East",
+    "country": "GB"
+  },
+  "933": {
+    "name": "Non League Div One - Southern Central",
+    "country": "GB"
+  },
+  "934": {
+    "name": "Arab Championship - U20",
+    "country": "AA"
+  },
+  "935": {
+    "name": "Diski Shield",
+    "country": "ZA"
+  },
+  "936": {
+    "name": "Catarinense - 2",
+    "country": "BR"
+  },
+  "937": {
+    "name": "Emirates Cup",
+    "country": "AA"
+  },
+  "938": {
+    "name": "Oberliga - Bayern Nord",
+    "country": "DE"
+  },
+  "939": {
+    "name": "Oberliga - Bayern S\u00fcd",
+    "country": "DE"
+  },
+  "940": {
+    "name": "COTIF Tournament",
+    "country": "AA"
+  },
+  "941": {
+    "name": "Islamic Solidarity Games",
+    "country": "AA"
+  },
+  "886": {
+    "name": "UEFA U17 Championship - Qualification",
+    "country": "AA"
+  },
+  "893": {
+    "name": "UEFA U19 Championship - Qualification",
+    "country": "AA"
+  },
+  "894": {
+    "name": "Asian Cup Women - Qualification",
+    "country": "AA"
+  },
+  "897": {
+    "name": "Asian Cup Women",
+    "country": "AA"
+  },
+  "899": {
+    "name": "League Cup",
+    "country": "FI"
+  },
+  "900": {
+    "name": "Tipsport Malta Cup",
+    "country": "AA"
+  },
+  "901": {
+    "name": "Ykk\u00f6scup",
+    "country": "FI"
+  },
+  "904": {
+    "name": "SheBelieves Cup",
+    "country": "AA"
+  },
+  "906": {
+    "name": "Reserve League",
+    "country": "AR"
+  },
+  "907": {
+    "name": "Primera Division",
+    "country": "CU"
+  },
+  "908": {
+    "name": "AFF U23 Championship",
+    "country": "AA"
+  },
+  "850": {
+    "name": "UEFA U21 Championship - Qualification",
+    "country": "AA"
+  }
+}
