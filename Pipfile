@@ -8,6 +8,7 @@ requests = {extras = ["socks"], version = "*"}
 python-dotenv = "*"
 ipython = "*"
 ipdb = "*"
+black = "*"
 
 [dev-packages]
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from copy import deepcopy
 import datetime
 import json
 import time
@@ -327,4 +328,95 @@ def download_and_normalize_events_from_given_matches(match_ids=None):
 # ### END OF COMPLETE DOWNLOAD AND NORMALIZE FUNCTIONS ### #
 
 
+def get_path_identifier(path):
+    # This function receives a path and returns the string resulting from removing 
+    # everything before "raw_data" (included) and everything after the "date folder" (included)
+    keep_item_flag = False
+    id_parts = []
+    for part in path.parts:
+        if keep_item_flag:
+            # Check if date folder
+            if part[0] == "2":
+                return '/'.join(id_parts)
+            else:
+                id_parts.append(part)
+        else:
+            if part == "raw_data":
+                keep_item_flag = True
+                continue
+
+
+def deep_dict_merge(a: dict, b: dict) -> dict:
+    result = deepcopy(a)
+    for bk, bv in b.items():
+        av = result.get(bk)
+        if isinstance(av, dict) and isinstance(bv, dict):
+            result[bk] = deep_dict_merge(av, bv)
+        else:
+            result[bk] = deepcopy(bv)
+    return result
+
+
+def refresh_normalizations_using_latest_downloaded_data():
+    # For every raw data category (fixtures, events, players, leagues, ...)
+    # compile paths to the files with the last data available locally in raw_data folder.
+    # For example, if we downloaded events for a given fixture three times, we only keep 
+    # the path to the last one of that downloads.
+
+    # Path identifiers and function associations
+    path_id_associations = {
+        "fixtures": normalize_all_matches_for_current_season_and_active_leagues,
+        "fixtures/events": normalize_events_for_given_matches,
+        "leagues": normalize_leagues_and_countries_data,
+        "players/squads": normalize_squads_for_given_teams
+    }
+
+    # Get all the latest file paths for the given active_path
+    raw_data_path = settings.PROJECT_DIR / "raw_data"
+    all_paths = raw_data_path.rglob("**/*")
+    # filtered_paths structure
+    # {
+    #     'players/squad': {
+    #         'team_202__p1.json': absolute_path
+    #         }
+    #     }
+    # }
+    filtered_paths = {}
+    for item in all_paths:
+        absolute_path = item.absolute()
+        # Path id is the chunk of the path that identifies the type of data, for example:
+        # /a/b/c/raw_data/players/squad/20220909Z/team_1__p1.json
+        # the identifier of that sample data is "players/squad"
+        path_id = get_path_identifier(absolute_path) 
+        if absolute_path.name.endswith(".json"):
+            current_folder_date = datetime.datetime.strptime(absolute_path.parts[-2], "%Y%m%d_%H%M%SZ")
+            current_file_name = absolute_path.parts[-1]
+            # Check if we already processed a file with the same name
+            previous_file = filtered_paths.get(path_id, {}).get(current_file_name)
+            if previous_file:
+                # Compare dates of previous and current file paths and keep the newest
+                previous_file_date = datetime.datetime.strptime(previous_file.parts[-2], "%Y%m%d_%H%M%SZ")
+                if current_folder_date > previous_file_date:
+                   filtered_paths = deep_dict_merge(filtered_paths, {
+                        path_id: {
+                            current_file_name: absolute_path
+                        }
+                    })
+            else:
+                filtered_paths = deep_dict_merge(filtered_paths, {
+                    path_id: {
+                        current_file_name: absolute_path
+                    }
+                })
+
+
+    # Loop over each association, get all the latest file paths for each data and pass 
+    # them to the associated function to create the normalized files with the newest
+    # downloaded data possible
+    for path_id, associated_function in path_id_associations.items():
+        path_id_data = filtered_paths.get(path_id)
+        if path_id_data:
+           data_paths = [p for p in path_id_data.values()] 
+        
+        associated_function(data_paths=data_paths)
 
