@@ -37,7 +37,7 @@ def check_api_limits():
 
 
 def download(
-    endpoint, params=None, endpoint_has_no_pagination=True, download_datetime=""
+    endpoint, params=None, endpoint_has_no_pagination=True, download_datetime="", bypass_requests_limit_failsafe=False
 ):
     if not params:
         params = {}
@@ -87,7 +87,7 @@ def download(
             # We avoid making requests if remaining requests for the day are 20 or less
             # to leave room and avoid hitting the limit unadvertedly
             raise Exception(
-                f"Failsafe triggered. Only 20 or less request left, so only manual downloads with 'bypass_requests_limit_failsafe=True'"
+                f"Failsafe triggered. Only 20 or less request left, so only manual downloads with 'bypass_requests_limit_failsafe=True' allowed"
             )
 
         time.sleep(
