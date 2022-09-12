@@ -11,7 +11,7 @@ def get_settings():
 class BaseSettings:
     # Base path of the project to generate absolute paths dynamically
     PROJECT_DIR = pathlib.Path(os.path.dirname(os.path.abspath(__file__)))
-    
+
     # FOOTBALL API URL
     FOOTBALL_API_URL = "https://v3.football.api-sports.io/"
 
@@ -21,7 +21,7 @@ class BaseSettings:
 
     # ACTIVE LEAGUES
     # List here the ids of the leagues to use (to download fixtures, etc).
-    # Each League division is considered a "league", e.g.: La Liga 1ª división, and La 
+    # Each League division is considered a "league", e.g.: La Liga 1ª división, and La
     # Liga 2ª división, each has their own league id
     # Currently Enabled:
     #     - 140: La Liga: Primera División
